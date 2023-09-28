@@ -38,9 +38,9 @@ Creating Route table (Adeel-rt) in order to specify how packets are forwarded be
 ## Creating EC2 Instances
 ### Server Instance
 
-![image](https://github.com/AdeelAhmedIqbal/DICE-Capstone-part2/assets/62285793/38b8ca86-ebba-49aa-bc1d-36e8d1d1fb12)
+![image](https://github.com/AdeelAhmedIqbal/DICE-Capstone-part2/assets/62285793/6a5200da-7786-4efb-b7f4-359b7dacfa2e)
 
-![image](https://github.com/AdeelAhmedIqbal/DICE-Capstone-part2/assets/62285793/e82b41ae-b96e-465e-af49-eb808ff8c6c6)
+![image](https://github.com/AdeelAhmedIqbal/DICE-Capstone-part2/assets/62285793/99ffe30e-2d4a-421c-9ff7-669387e701fb)
 
 
 
