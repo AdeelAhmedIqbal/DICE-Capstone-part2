@@ -42,6 +42,9 @@ Creating Route table (Adeel-rt) in order to specify how packets are forwarded be
 
 ![image](https://github.com/AdeelAhmedIqbal/DICE-Capstone-part2/assets/62285793/99ffe30e-2d4a-421c-9ff7-669387e701fb)
 
+### Client Instance 
+![image](https://github.com/AdeelAhmedIqbal/DICE-Capstone-part2/assets/62285793/504bec67-07b3-448a-b85d-8e3b70eb335d)
+
 
 
 
